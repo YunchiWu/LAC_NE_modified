@@ -1,0 +1,40 @@
+{
+  "baseline_ttt": 45114.9,
+  "rows": [
+    {
+      "case": "without UAM",
+      "capacity": null,
+      "auto_share": 1.0,
+      "lac_share": 0.0,
+      "ttt": 45114.9
+    },
+    {
+      "case": "2 vertiports",
+      "capacity": 5174.202132581375,
+      "auto_share": 0.971320551970789,
+      "lac_share": 0.02867944802921092,
+      "ttt": 40610.37796843987
+    },
+    {
+      "case": "3 vertiports",
+      "capacity": 10000.0,
+      "auto_share": 0.9174740895929274,
+      "lac_share": 0.08252591040707262,
+      "ttt": 35984.43018889848
+    },
+    {
+      "case": "4 vertiports",
+      "capacity": 10000.0,
+      "auto_share": 0.8949386521304834,
+      "lac_share": 0.10506134786951658,
+      "ttt": 35555.31294184381
+    },
+    {
+      "case": "5 vertiports",
+      "capacity": 9808.70300963604,
+      "auto_share": 0.8666862112041092,
+      "lac_share": 0.1333137887958908,
+      "ttt": 31863.700713353275
+    }
+  ]
+}
