@@ -1,0 +1,16 @@
+{
+  "network": "Chicago-Sketch",
+  "subproblem": "greedy",
+  "inner_loop": true,
+  "final_rg": 8.149037000748649e-14,
+  "final_TST": 18935450.261584144,
+  "n_paths": 106454,
+  "total_demand": 1260907.4400005303,
+  "iterations": 11,
+  "wall_seconds": 33.08497450000141,
+  "flow_rel_err_max": 0.00014210854715202004,
+  "flow_rel_err_mean": 1.6841957644206908e-07,
+  "tst_reference": 18935450.2615834,
+  "objective": 17313018.73874732,
+  "objective_rel_err": 2.194762312552087e-14
+}
